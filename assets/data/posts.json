@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "category": "food",
+        "image": "post-1.jpg",
+        "title": "Nourishing your body: How healthy eating leads to a happier life",
+        "content": "Food is one of the greatest pleasures in life, providing nourishment and enjoyment to people of all ages and backgrounds. From the aroma of fresh-baked bread to the sizzle of a perfectly grilled steak, food has the power to evoke memories, emotions, and feelings of comfort and satisfaction. Whether you're a seasoned chef or a beginner cook, there's always something new to discover and explore in the world of food.",
+        "author": "Larisa Po",
+        "date": "01/06/2023",
+        "like": 83,
+        "view": 391
+    },
+    {
+        "id": 2,
+        "category": "cooking",
+        "image": "post-2.jpg",
+        "title": "The Power of Greens: A Guide to a Healthier Lifestyle",
+        "content": "Food is a universal language that brings people together and nourishes both the body and soul. Whether you're enjoying a simple meal with family or experiencing exotic cuisine in a foreign land, food has the power to create memories and forge connections. From classic comfort foods to innovative culinary creations, there's a world of deliciousness waiting to be explored.",
+        "author": "Larisa Po",
+        "date": "01/12/2023",
+        "like": 254,
+        "view": 678
+    },
+    {
+        "id": 3,
+        "category": "lifestyle",
+        "image": "post-3.jpg",
+        "title": "Superfoods for Superb Health: The Top Foods for Optimal Wellness",
+        "content": "Food is more than just sustenance; it's a source of joy, comfort, and creativity. Whether you're exploring different cuisines, experimenting with new recipes, or simply savoring your favorite dishes, food has the power to nourish both the body and soul. From farm-to-table restaurants to food trucks and pop-up dinners, there's no shortage of culinary delights to discover.",
+        "author": "Larisa Po",
+        "date": "12/12/2022",
+        "like": 445,
+        "view": 2900
+    },
+    {
+        "id": 4,
+        "category": "food",
+        "image": "post-4.jpg",
+        "title": "Healthy Habits for a Happy Life: How to Live Your Best Life with Good Nutrition",
+        "content": "Cooking is both an art and a science, requiring creativity, skill, and patience to achieve the perfect balance of flavors, textures, and colors. From the precision of baking to the improvisation of sautéing, cooking offers endless possibilities for experimentation and innovation. With the right tools and techniques, anyone can master the art of cooking and create delicious, healthy meals that nourish the body and feed the soul.",
+        "author": "Larisa Po",
+        "date": "01/05/2023",
+        "like": 87,
+        "view": 450
+    },
+    {
+        "id": 5,
+        "category": "cooking",
+        "image": "post-5.jpg",
+        "title": "Eat Your Way to Better Health: Delicious and Nutritious Meal Ideas",
+        "content": "Cooking is an essential life skill that empowers individuals to take control of their health and wellness. By learning how to cook nutritious, delicious meals at home, you can save money, reduce food waste, and make healthier choices for yourself and your loved ones. With the right tools, ingredients, and guidance, anyone can become a confident and proficient cook.",
+        "author": "Larisa Po",
+        "date": "09/15/2022",
+        "like": 77,
+        "view": 154
+    },
+    {
+        "id": 6,
+        "category": "lifestyle",
+        "image": "post-6.jpg",
+        "title": "Healthy Eating Made Simple: Tips and Tricks for a Balanced Diet",
+        "content": "Cooking is an opportunity to express your creativity, connect with others, and nourish yourself and your loved ones. Whether you're a novice cook or an experienced chef, there's always room to grow and learn in the kitchen. By experimenting with new flavors, techniques, and ingredients, you can expand your culinary repertoire and create meals that are both delicious and nutritious.",
+        "author": "Larisa Po",
+        "date": "03/11/2022",
+        "like": 20,
+        "view": 109
+    },
+    {
+        "id": 7,
+        "category": "food",
+        "image": "post-7.jpg",
+        "title": "Mindful Eating for a Mindful Life: How to Savor Every Bite and Live in the Present",
+        "content": "A healthy lifestyle is essential for overall well-being and vitality, and food plays a crucial role in achieving this goal. By choosing fresh, whole foods that are rich in nutrients and antioxidants, you can boost your immune system, reduce inflammation, and improve your mental and physical health. In addition to eating a nutritious diet, regular exercise, stress management, and getting enough sleep are all important components of a healthy lifestyle.",
+        "author": "Larisa Po",
+        "date": "02/12/2023",
+        "like": 16,
+        "view": 34
+    },
+    {
+        "id": 8,
+        "category": "cooking",
+        "image": "post-8.jpg",
+        "title": "The Joy of Cooking Healthy: Simple and Tasty Recipes for a Healthier You",
+        "content": "A healthy lifestyle is not just about eating the right foods, but also about making smart choices that support overall wellness. This includes getting regular exercise, managing stress, and avoiding harmful habits like smoking and excessive alcohol consumption. By prioritizing self-care and adopting healthy habits, you can boost your energy, improve your mood, and reduce your risk of chronic diseases.",
+        "author": "Larisa Po",
+        "date": "03/17/2023",
+        "like": 91,
+        "view": 561
+    },
+    {
+        "id": 9,
+        "category": "lifestyle",
+        "image": "post-9.jpg",
+        "title": "Fuel Your Body, Fuel Your Life: The Connection Between Healthy Eating and High Performance",
+        "content": "A healthy lifestyle is not about deprivation or restriction, but rather about making choices that support your physical, mental, and emotional well-being. This includes eating a balanced, nutrient-dense diet, staying active, getting enough sleep, and prioritizing stress management and self-care. It's important to listen to your body's needs and give it the nourishment and care it deserves. This can involve finding physical activities you enjoy, such as dancing or hiking, and making time for relaxation and more.",
+        "author": "Larisa Po",
+        "date": "03/01/2023",
+        "like": 203,
+        "view": 1004
+    }
+]
